@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/gen-env/static/css/main.f855e6bc.css",
-    "main.js": "/gen-env/static/js/main.1e8b1745.js",
+    "main.css": "/gen-env/static/css/main.8ebbca00.css",
+    "main.js": "/gen-env/static/js/main.8a1c9f2b.js",
     "static/js/453.a9bd528a.chunk.js": "/gen-env/static/js/453.a9bd528a.chunk.js",
-    "static/media/logo.svg": "/gen-env/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/test.jpg": "/gen-env/static/media/test.de9370567c5d3b60af25.jpg",
+    "static/media/test.avif": "/gen-env/static/media/test.0d166d9b885026efff91.avif",
     "index.html": "/gen-env/index.html",
-    "main.f855e6bc.css.map": "/gen-env/static/css/main.f855e6bc.css.map",
-    "main.1e8b1745.js.map": "/gen-env/static/js/main.1e8b1745.js.map",
+    "main.8ebbca00.css.map": "/gen-env/static/css/main.8ebbca00.css.map",
+    "main.8a1c9f2b.js.map": "/gen-env/static/js/main.8a1c9f2b.js.map",
     "453.a9bd528a.chunk.js.map": "/gen-env/static/js/453.a9bd528a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1e8b1745.js"
+    "static/css/main.8ebbca00.css",
+    "static/js/main.8a1c9f2b.js"
   ]
 }
