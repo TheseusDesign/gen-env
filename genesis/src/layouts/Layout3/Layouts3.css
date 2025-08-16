@@ -1,0 +1,23 @@
+.Layout3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    background-color: var(--layout-3-background-color);
+    padding: var(--section-padding-standard-h) var(--section-padding-standard-w);
+
+    &>h2,
+    &>p {
+        text-align: center;
+        max-width: 720px;
+    }
+
+    .card-array {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 24px;
+        justify-content: center;
+    }
+}
