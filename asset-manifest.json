@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7b27bc4.css",
-    "main.js": "/static/js/main.b5f572e7.js",
-    "static/js/453.a9bd528a.chunk.js": "/static/js/453.a9bd528a.chunk.js",
-    "static/media/test.jpg": "/static/media/test.de9370567c5d3b60af25.jpg",
-    "static/media/test.avif": "/static/media/test.0d166d9b885026efff91.avif",
-    "index.html": "/index.html",
-    "main.d7b27bc4.css.map": "/static/css/main.d7b27bc4.css.map",
-    "main.b5f572e7.js.map": "/static/js/main.b5f572e7.js.map",
-    "453.a9bd528a.chunk.js.map": "/static/js/453.a9bd528a.chunk.js.map"
+    "main.css": "/gen-env/static/css/main.d7b27bc4.css",
+    "main.js": "/gen-env/static/js/main.2681d26e.js",
+    "static/js/453.a9bd528a.chunk.js": "/gen-env/static/js/453.a9bd528a.chunk.js",
+    "static/media/test.jpg": "/gen-env/static/media/test.de9370567c5d3b60af25.jpg",
+    "static/media/test.avif": "/gen-env/static/media/test.0d166d9b885026efff91.avif",
+    "index.html": "/gen-env/index.html",
+    "main.d7b27bc4.css.map": "/gen-env/static/css/main.d7b27bc4.css.map",
+    "main.2681d26e.js.map": "/gen-env/static/js/main.2681d26e.js.map",
+    "453.a9bd528a.chunk.js.map": "/gen-env/static/js/453.a9bd528a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7b27bc4.css",
-    "static/js/main.b5f572e7.js"
+    "static/js/main.2681d26e.js"
   ]
 }
